@@ -1,0 +1,49 @@
+name: Python Package using Conda
+
+on: [push]
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 5
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.10'
+        
+    - name: Add conda to system path
+      run: |
+        # $CONDA 是一個環境變數，指向 miniconda 目錄的根節點
+        echo $CONDA/bin >> $GITHUB_PATH
+        
+    - name: Install dependencies (HTFC 客製化)
+      run: |
+        # 建立專屬虛擬環境並安裝科學運算與 UI 套件
+        conda create -n htfc_env python=3.10 -y
+        # 啟動環境並安裝依賴
+        source $CONDA/bin/activate htfc_env
+        conda install numpy scipy -y
+        # PyQt6 與 Plotly 透過 pip 安裝可獲得最新版
+        pip install plotly PyQt6 PyQt6-WebEngine flake8 pytest
+        
+    - name: Lint with flake8
+      run: |
+        source $CONDA/bin/activate htfc_env
+        # 停止構建：如果出現嚴重的 Python 語法錯誤或未定義的名稱
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # 寬鬆檢查：將所有格式錯誤視為警告 (exit-zero)
+        flake8 . --count --exit-zero --max-complexity=15 --max-line-length=127 --statistics
+        
+    - name: Test with compilation
+      run: |
+        source $CONDA/bin/activate htfc_env
+        # 由於目前尚無 pytest 單元測試檔，我們改為測試「物理引擎是否能成功編譯」
+        python -m py_compile HTFC_Engine.py
+        echo "HTFC 物理引擎語法編譯測試通過！"
+        # 備註：未來若撰寫了 test_*.py 測試腳本，可將下方指令取消註解
+        # pytest
