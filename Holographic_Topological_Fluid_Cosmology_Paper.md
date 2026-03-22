@@ -1,5 +1,5 @@
 # Holographic Topological Fluid Cosmology: Elimination of Dark Matter via Continuum Mechanics and Cross-Scale Observational Proof
-# 全像拓撲流體宇宙學：基於連續介質力學的暗物質剔除與跨尺度觀測實證
+# 全像拓撲流體宇宙學：基於連續介質的暗物質剔除與跨尺度觀測實證
 
 **Author:** Chung-Lin Lee (李宗霖)
 **Affiliation:** Independent Researcher
