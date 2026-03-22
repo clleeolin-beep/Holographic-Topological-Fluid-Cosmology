@@ -54,7 +54,7 @@ The standard model of cosmology (ΛCDM) heavily relies on the ad hoc insertions 
 
 ## 參、 專有名詞重構、數學推導與實證對位矩陣 (Nomenclature Reconstruction, Mathematical Formulation & Empirical Corroboration)
 
-為徹底根除 $\Lambda$CDM 模型中因定義模糊而產生的特設參數（Ad hoc parameters），本章將標準模型中的經典專有名詞，嚴格重新定義為連續介質力學與熱力學的物理變數。所有流體運動皆服從擴展版的納維-斯托克斯方程式（Extended Navier-Stokes Equations）：
+為徹底根除 (ΛCDM) 模型中因定義模糊而產生的特設參數（Ad hoc parameters），本章將標準模型中的經典專有名詞，嚴格重新定義為連續介質力學與熱力學的物理變數。所有流體運動皆服從擴展版的納維-斯托克斯方程式（Extended Navier-Stokes Equations）：
 $$\rho \left(\frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v}\right) = -\nabla P_{total} + \mu \nabla^2 \mathbf{v} + \mathbf{f}$$
 其中 $\nabla P_{total} = \nabla P_{kin} + \nabla P_{tension} + \nabla P_{topo}$。
 
