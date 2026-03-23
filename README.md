@@ -33,40 +33,43 @@ Through an extended system of fluid dynamic partial differential equations, this
 
 ---
 
-## 🗺️ Macro-Theoretical Roadmap
+## 🗺️ Macro-Theoretical Roadmap (Table of Contents)
 
-To guide cross-disciplinary researchers systematically through the underlying logic of this theory, the HTFC discipline is structured into six major progressive parts. For complete mathematical proofs and comprehensive discourse, please refer to the official literature in the [`docs/`](./docs) directory.
+This project structures the HTFC theoretical framework into six progressive stages. From the philosophical enlightenment that shatters conventional common sense, to rigorous mathematical dissection, and ultimately to physical engineering applications destined to alter human civilization.
 
-### 🔹 Part 1: Enlightenment & The Observer Trap
-The starting point for shattering conventional paradigms. We explain why we reside within a fluid yet feel no "aether wind."
-* **The Acoustic Nature of Light:** Light is not a bullet flying through a vacuum; it is the ultimate shear wave speed limit of this extremely rigid spatial medium.
-* **Fluid Reduction of Relativity:** Because measuring instruments (atoms) are themselves composed of fluid vortices, moving through a flow field inevitably induces synchronous fluid mechanical deformation (the Lorentz transformation). This illusion of "synchronous scaling" perfectly conceals absolute motion, creating the observer trap of a constant speed of light.
+### 🔹 Part 1: Epistemological Awakening & The Observer Trap
+**🎯 Objective: Utilize the strongest physical intuition to shatter the century-old misconception of the "vacuum" and establish a radically new cosmological worldview.**
+* **Origin of Definition:** The universe is not an empty geometric background, but a physical fluid at -270°C, undergoing slow boiling and expansion.
+* **The Observer Trap:** Why do we not feel this fluid? Deciphering the absolute speed of light in Relativity: When measuring instruments (atomic rulers and clocks) are themselves composed of fluid vortices, moving through a flow field inevitably induces synchronous fluid mechanical deformation. This illusion of "synchronous scaling" perfectly conceals the absolute motion of the medium.
+* **Vernacular Reconstruction of Physics Nomenclature:** Reducing "mass" to fluid drag resistance; defining "charge" as the chirality (direction of rotation) of microscopic vortices; redefining the mysterious quantum "superposition" as fluid standing wave resonance within a continuous medium.
 
-### 🔹 Part 2: The Core Theorem — The Trinitarian Pressure Equation
-Providing the underlying fluid source code that governs cosmic evolution. The total driving force at any coordinate in space originates from three independent pressure gradients:
-* **∇P_kin (Macroscopic Kinematic Pressure):** Generates convergent hydrostatic squeezing (equivalent to Newtonian Gravity).
-* **∇P_tension (Microscopic Surface Tension):** Cohesive tension resisting extreme compression (equivalent to the Strong Nuclear Force and Black Hole boundaries).
-* **∇P_topo (Topological Upwelling Pressure):** Entropy-triggered repulsive phase transition (equivalent to the Big Bang and Dark Energy).
+### 🔹 Part 2: The Core Theorem & Fluid Source Code
+**🎯 Objective: Provide the underlying mathematical logic governing all things, establishing an extended system of fluid dynamics independent of ad hoc parameters.**
+* **The Trinitarian Pressure Equation (∇P_total):** Formally presenting the core HTFC equation. All forces in the universe originate from three independent fluid pressure gradients:
+  1. **Inward Hydrostatic Pressure (∇P_kin):** The driving force of macroscopic matter convergence (perfectly equivalent to Newtonian gravity).
+  2. **Anti-Rupture Surface Tension (∇P_tension):** Microscopic cohesive force under extreme compression (equivalent to the strong nuclear force and black hole boundary tension).
+  3. **Outward Topological Upwelling Pressure (∇P_topo):** Entropy-triggered repulsive phase transition (equivalent to the Big Bang and Dark Energy).
 
-### 🔹 Part 3: Mathematical Dissection of Historical Paradigms
-Directly confronting the contemporary Standard Model to demonstrate its mathematical divergences and fallacies.
-* **Elimination of Dark Matter:** The high-speed rotation of peripheral galactic stars is not held by dark matter gravity, but is laterally dragged by the **Dynamic Viscous Shear Stress (μ∇²v)** of the spatial fluid, constituting a standard Taylor-Couette flow.
-* **Eradication of Singularities:** There is no infinitely dense singularity at the center of a black hole. It is a "solid-state topological dead knot" locked in when the fluid crosses the threshold of a first-order phase transition.
+### 🔹 Part 3: Dissection and Transcendence of Historical Paradigms
+**🎯 Objective: Utilize the core HTFC equations to dimensionally dissect contemporary mainstream physics models, proving their mathematical divergences and logical flaws.**
+* **Confronting Newton and Einstein:** Proving that General Relativity and Newtonian mechanics are merely incomplete special cases of the HTFC fluid equations under conditions of "low viscosity" and "ignoring fluid phase transition limits." By applying fluid phase transition limits, we completely eliminate the "singularity collapse" of infinite density at the center of black holes.
+* **Confronting the Copenhagen School:** Utilizing continuum mechanics and fluid incompressibility to decipher the "spooky action at a distance" of boson probability waves and quantum entanglement, reducing the idealism of quantum mechanics to rigorous fluid dynamics.
 
-### 🔹 Part 4: Cross-Scale Observational Proof
-Aligning the fluid equations with real-world observational data across extreme scales:
-* **Microgravity Boiling Equivalence (ISS Experiments):** The coalescence and non-fragmentation of bubbles in microgravity aboard the ISS empirically prove the fluid topological inevitability of the universe as a "single phase-transition bubble."
-* **Deep Space Probe Damping:** The anomalous deceleration and plasma jumps measured by the Voyager probes are, in reality, the fluid viscous drag and phase transition boundaries of the spatial medium.
-* **Nebular Diffusion Morphology:** The fractal structures at the edges of nebulae perfectly conform to **Rayleigh-Taylor Instability**, occurring when high-density fluid is violently injected into a low-density background fluid.
+### 🔹 Part 4: Cross-Scale Empirical Corroboration & Data Alignment
+**🎯 Objective: Use the most cutting-edge astronomical observations and aerospace experimental data to prove this theory is not a mathematical game, but precise physical reality.**
+* **Space Boiling Experiments (ISS Microgravity Boiling):** Introducing microgravity boiling experiments from the International Space Station to prove the "coalescence and non-fragmentation" characteristics of fluids in the absence of gravity, providing morphological ironclad proof for the universe as a single phase-transition bubble.
+* **Deep Space Probe Damping:** Analyzing the anomalous deceleration data of NASA's Voyager and Pioneer probes to precisely calculate the dynamic viscous shear stress of the spatial medium.
+* **Nebular Diffusion & Black Hole Thermal Imaging:** Aligning with the fractal diffusion edges of nebulae captured by JWST (confirming Rayleigh-Taylor instability) and the polarized radiation of black holes observed by the EHT (confirming Z-axis fluid tumbling vortices).
 
-### 🔹 Part 5: Macro-System Predictions
-*This section is continuously expanding.* Proving the universality of the HTFC equations:
-* **Downward Compatibility:** Deriving the underlying topological logic of Earth's climate patterns, ocean currents, and extreme weather turbulence.
-* **Upward Scaling:** Accurately interpreting the Hercules-Corona Borealis Great Wall, the cosmic siphoning effect of the Great Attractor, and defining the Cosmic Microwave Background (CMB) as the fluid's **Critical Opalescence**.
+### 🔹 Part 5: Macro-System Derivations & Theory of Everything Predictions
+**🎯 Objective: Demonstrate the universality and downward compatibility of the HTFC equations, proving this to be a true Theory of Everything.**
+* **Downward Dimensionality Reduction to Earth Scale:** Applying the same set of fluid equations to derive the underlying topological logic of Earth's ocean currents and extreme climate patterns.
+* **Upward Cosmic Expansion:** Deriving the mechanism behind the Hercules-Corona Borealis Great Wall and the cosmic siphoning effect of the Great Attractor, and precisely defining the Cosmic Microwave Background (CMB) as the "critical opalescence" of a fluid on the verge of boiling.
 
-### 🔹 Part 6: Engineering Sciences & Future Applications
-*Grounding the theory to provide a physical blueprint for future technologies.*
-* **Fluid Mechanical Realization of Warp Drive:** Achieving directional displacement without inertial mass by artificially creating a localized extreme low-pressure cavitation zone (∇P_kin ≪ 0) at the vehicle's front, combined with a phase transition membrane to eliminate viscous friction (μ → 0).
+### 🔹 Part 6: Engineering Sciences & Future Civilizational Applications
+**🎯 Objective: Grounding the theory to showcase the physical application value of HTFC in altering human civilization and breaking technological bottlenecks.**
+* **Cosmic Navigation Engineering:** Analyzing the fluid mechanical essence of the "Warp Drive." By artificially creating a localized extreme low-pressure cavitation zone (∇P_kin ≪ 0) at the front, combined with a surface phase transition membrane to eliminate fluid viscous drag (μ → 0), achieving directional displacement without inertial mass.
+* **Materials and Energy Science:** Exploring next-generation efficient energy conduction mechanisms, thermodynamic applications, and the fluid resonance architecture of room-temperature superconductors, based on spatial fluid topology and microscopic vortex chirality.
 
 ---
 
